@@ -10,6 +10,6 @@ The audit is available [here](10-29-2020_Certik.pdf).
 
 The audit is available [here](12-09-2020_Quantstamp.pdf).
 
-## [Open Zeppelin](https://openzeppelin.com/)
+## [OpenZeppelin](https://openzeppelin.com/)
 
 The audit is available on their blog: [Saddle Contracts Audit](https://blog.openzeppelin.com/saddle-contracts-audit/).
