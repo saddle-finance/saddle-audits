@@ -17,3 +17,7 @@ The token audit is available [here](10-27-2021_Quantstamp_Token.pdf).
 ## [OpenZeppelin](https://openzeppelin.com/)
 
 The protocol audit is available on their blog: [Saddle Contracts Audit](https://blog.openzeppelin.com/saddle-contracts-audit/).
+
+## [Least Authority](https://leastauthority.com/)
+
+The metapools audit is available [here](11-30-2022_Least_Authority_Metapools.pdf).
